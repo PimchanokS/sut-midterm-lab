@@ -1,1 +1,10 @@
-# sut-midterm-lab
+#### sut-midterm-lab
+
+</hr>
+
+## ชื่อ
+
+```
+พิมพ์ชนก โสมศรี
+```
+
